@@ -10,12 +10,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Im a purple belt in brazilian jiu jitsu! &#129355;
 -->
+- 📫 How to reach me: shennaike2386@hotmail.com
+- ⚡ Fun fact: Im a purple belt in brazilian jiu jitsu! &#129355;
+
+
 Connect with me:
 
 
 Languages and Tools:
-git heroku html javascript react
+
