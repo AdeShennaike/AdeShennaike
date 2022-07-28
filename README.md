@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shennike2386@hotmail.com**
 
-- ⚡ Fun fact **I'm a Army Vet 🎖 and a purple belt in Brazilian Jiu Jitsu! 🥋**
+- ⚡ Fun fact **I'm a Army Vet 🎖 and I hold a purple belt in Brazilian Jiu Jitsu! 🥋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
