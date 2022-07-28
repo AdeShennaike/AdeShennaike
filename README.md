@@ -4,7 +4,7 @@
 ![tech gif 7449db47191b0e32967887c117908b3c](https://user-images.githubusercontent.com/89111438/179123821-c1729e48-6a06-4849-b388-4d319a1c1637.gif)
 
 
-- 🌱 I’m currently learning **full stack web development and sharpening my skills.**
+- 🌱 I’m currently learning **full stack web development and sharpening those skills day by day.**
 
 - 👯 I’m looking to collaborate on **anything!**
 
