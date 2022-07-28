@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **full stack web development and sharpening those skills day by day.**
 
-- 👯 I’m looking to collaborate on **anything!**
+- 👯 I’m looking to collaborate on **anything**, especially in entertainment!
 
 - 🎮 I love **video games(PC gamer!) and building gundam models.**
 
